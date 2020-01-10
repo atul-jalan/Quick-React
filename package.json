@@ -6,6 +6,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "firebase": "^7.6.2",
     "rbx": "^2.2.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
@@ -34,5 +35,17 @@
   },
   "devDependencies": {
     "typescript": "^3.7.4"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atul-jalan/quick-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atul-jalan/quick-react/issues"
+  },
+  "homepage": "https://github.com/atul-jalan/quick-react#readme"
 }
